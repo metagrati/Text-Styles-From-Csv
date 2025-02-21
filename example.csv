@@ -1,0 +1,27 @@
+Element,Font,Size,Weight,Letter Spacing,Line Height
+H1,Montserrat,80px,ExtraBold,-1%,90px
+H2,Montserrat,48px,Bold,-1%,56px
+H3,Montserrat,32px,SemiBold,0%,40px
+Body Text,Inter,16px-18px,Regular,0%,24px
+Buttons,Poppins,18px+,Bold,+1%,22px
+Game UI,Orbitron,20px+,Medium,+1.5%,28px
+Countdown Timer,Orbitron,32px,Medium,+1.5%,40px
+Current Crypto Price,Orbitron,28px,Medium,+1.5%,36px
+Winning Amounts,Orbitron,28px,Bold,+1%,36px
+Bet Amount Input,Orbitron,20px,Medium,+1.5%,28px
+Game Round Status,Orbitron,24px,SemiBold,+1.5%,32px
+User Balance,Orbitron,22px,Medium,+1%,28px
+Profit / Loss Indicator,Orbitron,26px,Bold,+1.5%,34px
+Leaderboard Rankings,Orbitron,20px,Medium,+1.5%,28px
+Transaction Status,Orbitron,18px,SemiBold,+1.5%,24px
+Live Betting Pool,Orbitron,22px,Bold,+1.5%,30px
+Countdown Timer ⏳,Orbitron,32px,Medium,+1.5%,40px
+Current Crypto Price 📉📈,Orbitron,28px,Medium,+1.5%,36px
+Winning Amounts 💰,Orbitron,28px,Bold,+1%,36px
+Bet Amount Input 🔢,Orbitron,20px,Medium,+1.5%,28px
+Game Round Status ✅❌,Orbitron,24px,SemiBold,+1.5%,32px
+User Balance 🏦,Orbitron,22px,Medium,+1%,28px
+Profit / Loss Indicator 📊,Orbitron,26px,Bold,+1.5%,34px
+Leaderboard Rankings 🏆,Orbitron,20px,Medium,+1.5%,28px
+Transaction Status 🔄,Orbitron,18px,SemiBold,+1.5%,24px
+Live Betting Pool 🎲,Orbitron,22px,Bold,+1.5%,30px

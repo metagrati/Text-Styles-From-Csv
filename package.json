@@ -1,0 +1,38 @@
+{
+  "name": "text-styles-from-csv",
+  "version": "1.0.0",
+  "description": "**Text Styles from CSV** is a Figma plugin that imports text styles from a CSV file, enabling quick and consistent typography application. It streamlines workflows by automating style creation, saving time, and ensuring uniformity. 🚀",
+  "main": "code.js",
+  "scripts": {
+    "build": "npm run build",
+    "lint": "eslint --ext .js --ignore-pattern node_modules .",
+    "lint:fix": "eslint --ext .js --ignore-pattern node_modules --fix .",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/eslint-plugin-figma-plugins": "*",
+    "eslint": "^8.54.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "eslint:recommended",
+      "plugin:@figma/figma-plugins/recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 2020
+    },
+    "root": true,
+    "rules": {
+      "no-unused-vars": [
+        "error",
+        {
+          "argsIgnorePattern": "^_",
+          "varsIgnorePattern": "^_",
+          "caughtErrorsIgnorePattern": "^_"
+        }
+      ]
+    }
+  }
+}
